@@ -6,7 +6,8 @@ Here is a well-structured **README.md** file for the PDF titled **"Experiment 1 
 
 ### 📘 Course: Machine Learning Algorithms Laboratory (ICS1512)
 
-### 👨‍🎓 Degree: B.E. Computer Science & Engineering
+### 👨‍🎓 Degree: M.TECH Computer Science & Engineering(
+integrated)
 
 ### 📅 Semester: V (Academic Year 2025–2026)
 
